@@ -1,0 +1,21 @@
+body {
+    background: gray;
+}
+
+.right {
+    text-align: right;
+}
+
+.picture {
+    text-align: center;
+
+}
+.picture img {
+    height: 100px;
+    
+} 
+
+
+.complete {
+    text-align: center;
+}
